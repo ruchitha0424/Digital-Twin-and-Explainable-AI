@@ -1,0 +1,23 @@
+# Python
+venv/
+**/venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+**/.pytest_cache/
+
+# Node & Frontend
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+
+# Logs & temp
+*.log
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
